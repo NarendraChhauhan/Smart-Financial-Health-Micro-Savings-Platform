@@ -5,6 +5,8 @@
 A fintech web application that helps users track expenses, improve financial habits, and automate small savings using intelligent insights and alerts.
 
 ---
+<img width="2840" height="1385" alt="image" src="https://github.com/user-attachments/assets/0d57522a-2afd-4f78-ad68-eca3d585598b" />
+
 
 ## Features
 
