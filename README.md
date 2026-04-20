@@ -51,4 +51,4 @@ To build a user-centric fintech solution focused on financial awareness and smar
 
 ## Author
 
-Your Name
+Narendra Singh
