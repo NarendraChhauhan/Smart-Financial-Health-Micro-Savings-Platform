@@ -18,6 +18,14 @@ A fintech web application that helps users track expenses, improve financial hab
 * Micro-savings (round-up savings and goal tracking)
 
 ---
+<img width="2844" height="1318" alt="image" src="https://github.com/user-attachments/assets/e81f3872-35fe-48ed-8d0a-946e24bd0cb7" />
+
+<img width="2861" height="1325" alt="image" src="https://github.com/user-attachments/assets/10dd875b-7850-4776-968f-991e1dfff713" />
+
+<img width="2844" height="1318" alt="image" src="https://github.com/user-attachments/assets/601bf965-9d0e-4ea7-90ef-6b6e38e7ae32" />
+
+
+
 
 ## Financial Health Score
 
